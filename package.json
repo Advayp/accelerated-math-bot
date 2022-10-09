@@ -1,0 +1,24 @@
+{
+  "name": "accelerated-math-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advayp/accelerated-math-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advayp/accelerated-math-bot/issues"
+  },
+  "homepage": "https://github.com/Advayp/accelerated-math-bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
